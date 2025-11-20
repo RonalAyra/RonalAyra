@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronal Ayra</h1>
 <h3 align="center">Desarrollador apasionado con experiencia en crear soluciones web innovadoras y de alto rendimiento. Mi enfoque combina las mejores prácticas de desarrollo con un constante aprendizaje para entregar productos que superen las expectativas y resuelvan problemas reales de manera eficiente.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronalayra&label=Profile%20views&color=0e75b6&style=flat" alt="ronalayra" /> </p>
+<p align="left"> <img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="ronalayra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronalayra" alt="ronalayra" /></a> </p>
 
