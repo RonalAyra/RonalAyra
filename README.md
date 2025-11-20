@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="Ronal Ayra" width="200" height="200" style="border-radius: 50%; border: 4px solid #0e75b6;" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronalayra" alt="ronalayra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="ronalayra" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
