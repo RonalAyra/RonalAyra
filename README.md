@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ronal Ayra</h1>
 <h3 align="center">Desarrollador apasionado con experiencia en crear soluciones web innovadoras y de alto rendimiento. Mi enfoque combina las mejores prácticas de desarrollo con un constante aprendizaje para entregar productos que superen las expectativas y resuelvan problemas reales de manera eficiente.</h3>
 
-<p align="center"> <img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="Ronal Ayra" width="200" height="200" style="border-radius: 50%; border: 4px solid #0e75b6;" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="ronalayra" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://ronalayra.github.io/ronal_ayra_revollo/assets/profile-B0SiNtjj.jpg" alt="ronalayra" 
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #0e75b6; display: block; margin: 0 auto;" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
