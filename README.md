@@ -108,8 +108,12 @@
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronalayra&show_icons=true&locale=es&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronalayra&layout=compact&langs_count=8&locale=es&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronalayra&theme=radical" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronalayra&theme=radical" alt="Lenguajes Más Usados" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronalayra&theme=radical" alt="Detalles de Perfil" />
 </div>
 
 <br>
